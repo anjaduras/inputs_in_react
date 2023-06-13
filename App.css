@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+* {
+  text-align: center;
+  font-family: 'Kanit', sans-serif;
+  background-color: #02343F;
+  color:#817f6e;
+}
+
+p {
+  color: #F0EDCC;
+  font-weight: 600;
+}
+
+hr {
+  width: 500px;
+}
+
+input {
+  background-color: #F0EDCC;
+  border: transparent;
+  border-radius: 20px;
+}
+
+textarea {
+  background-color: #F0EDCC;
+  border: transparent;
+  border-radius: 10px;
+}
