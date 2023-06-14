@@ -6,9 +6,7 @@ This repository contains examples of different form input types and event handli
 
 - [Introduction](#introduction)
 - [Examples](#examples)
-- [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
