@@ -36,16 +36,6 @@ Each example showcases different ways to handle input changes and retrieve the v
 - **Example 6** - Radio buttons.
 - **Example 7** - Checkbox.
 
-## Getting Started
-
-To run the examples locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/react-form-examples.git`
-2. Change to the project directory: `cd react-form-examples`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and navigate to `http://localhost:3000`
-
 Feel free to explore each example and experiment with different form input types and event handling approaches.
 
 ## Contributing
