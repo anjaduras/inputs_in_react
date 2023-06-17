@@ -48,4 +48,5 @@ Contributions are welcome! If you have any improvements or additional examples t
 
 14.06 - I still haven't wrote the functions for this code. Getting back to it later.
 
-UPDATE 17.06
+## UPDATE 17.06
+added ZIP file that contains functional solutions on this topic.
